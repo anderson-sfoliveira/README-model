@@ -103,6 +103,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta:
+[Maven](https://maven.apache.org/).
+Além disto é bom ter um editor para trabalhar com o código como [Spring Tools 4 for Eclipse](https://spring.io/tools/).
+
 #### 🎲 Rodando o Backend (servidor)
 
 ```bash
