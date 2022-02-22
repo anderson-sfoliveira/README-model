@@ -108,48 +108,35 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/anderson-sfoliveira/curso-injecao-dependencia.git
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+# Importe o projeto para dentro do STS4.
 
-# Vá para a pasta server
-$ cd server
+# Solicite um "Update Maven Project" (Alt + F5).
 
-# Instale as dependências
-$ npm install
+# Inicie a aplicação.
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# O servidor inciará na porta:8080
 
 ```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone https://github.com/anderson-sfoliveira/teste-angular-bootstrap.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
-
-# Vá para a pasta da aplicação Front End
-$ cd web
+$ cd teste-angular-bootstrap
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start
+$ ng serve
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# A aplicação será aberta na porta:4200 - acesse http://localhost:4200
 
 ```
 
