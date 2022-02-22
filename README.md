@@ -49,8 +49,8 @@ Tabela de conteúdos
      * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
      * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
    * [Tecnologias](#-tecnologias)
-     * [Frontend](#user-content--frontend)
-     * [Backend](#--backend)
+     * [Frontend](#frontend)
+     * [Backend](#backend)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
