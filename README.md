@@ -170,9 +170,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Backend**
 
-- **[Maven](https://maven.apache.org/)**
-- **[Spring Boot](https://spring.io/projects/spring-boot/)**
-- **[Docker](https://www.docker.com/)**
+-   **[Maven](https://maven.apache.org/)**
+-   **[Spring Boot](https://spring.io/projects/spring-boot/)**
+-   **[Docker](https://www.docker.com/)**
+-   **[ng-recaptcha](https://www.npmjs.com/package/ng-recaptcha)**
+-   **[ngx-mask](https://www.npmjs.com/package/ngx-mask)**
+-   **[cpf-cnpj-validator](https://www.npmjs.com/package/cpf-cnpj-validator)**
 
 > Veja o arquivo [pom.xml](https://github.com/anderson-sfoliveira/teste-docker/blob/main/pom.xml)
 
