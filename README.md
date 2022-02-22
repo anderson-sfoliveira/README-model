@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Título do projeto (obrigatório)
+  Título do projeto
 </h1>
 
 <h3 align="center">
@@ -39,7 +39,7 @@
 	🚧  Concluído  🚧
 </h4>
 
-Tabela de conteúdos (obrigatório)
+Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
@@ -57,7 +57,7 @@ Tabela de conteúdos (obrigatório)
 <!--te-->
 
 
-## 💻 Sobre o projeto (obrigatório)
+## 💻 Sobre o projeto
 
 Aqui você coloca o objetivo do projeto.
 
